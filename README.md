@@ -1,4 +1,8 @@
-# Mitigating Token Homogenization in Token Merging via Source Selection Switching and Merge Embedding
+# [CVPRW 2026] Mitigating Token Homogenization in Token Merging via Source Selection Switching and Merge Embedding
+
+<p align="center">
+  <a href="https://openaccess.thecvf.com/content/CVPR2026W/ECV/papers/Ichikawa_Mitigating_Token_Homogenization_in_Token_Merging_via_Source_Selection_Switching_CVPRW_2026_paper.pdf">[Paper URL]</a>
+</p>
 
 The Vision Transformers (ViTs) in this repository incorporate Token Merging (ToMe) and the proposed Source Selection Switching (SSS) and Merge Embedding (ME). This repo contains files required to train, fine-tune, and benchmark DeiT/LV-ViT/MAE-style models with ToMe, DiffRate, and related variants.
 
